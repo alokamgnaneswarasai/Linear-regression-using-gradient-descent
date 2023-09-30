@@ -8,10 +8,7 @@ This repository contains a Python implementation of linear regression using two 
 - [Dataset](#dataset)
 - [Implementation](#implementation)
 - [Usage](#usage)
-- [Results](#results)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -23,12 +20,11 @@ Linear regression is a fundamental machine learning algorithm used for modeling 
 
 ## Dataset
 
-The dataset used in this project is a small example dataset. It consists of [describe your dataset here, including its features and target variable]. You can find the dataset in the [dataset folder](./data.csv).
+The dataset used in this project is a small example dataset. You can find the dataset in the [dataset folder](./data.csv).
 
 ## Implementation
 
-- `linear_regression_sgd.py`: This script contains the implementation of linear regression using Stochastic Gradient Descent (SGD).
-- `linear_regression_gradient_descent.py`: This script contains the implementation of linear regression using Gradient Descent.
+- `linear_regression.ipynb`: This script contains the implementation of linear regression using Stochastic Gradient Descent (SGD) and Gradient Descent.
 
 ## Usage
 
@@ -37,5 +33,5 @@ To run the code and train the linear regression models, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/linear-regression-sgd-gradient-descent.git
-   cd linear-regression-sgd-gradient-descent
+   git clone https://github.com/alokamgnaneswarasai/Linear-regression-using-gradient-descent
+  
